@@ -1,0 +1,12 @@
+.Down-widget{
+  border: 10px solid #efefef;
+  margin-left: 55px;
+  width: 250px;
+  padding-right: 1px;
+}
+.widget-title {
+    font-size: 1rem;
+    font-family: "Ubuntu", sans-serif;
+    font-weight: 700;
+    margin: 1px;
+}

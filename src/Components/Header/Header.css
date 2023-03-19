@@ -1,0 +1,18 @@
+header {
+    background: #f8f8f8;
+    padding: 4em 0;
+    margin-bottom: 5em;
+    position: relative;
+    width: 1350px;
+  }
+  .left{
+    position: absolute;
+    top:40px;
+    left: 200px;
+    text-align: center;
+  }
+  .right{
+    top:65px;
+    position: absolute;
+    right: 200px;
+  }

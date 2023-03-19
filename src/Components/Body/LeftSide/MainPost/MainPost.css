@@ -1,0 +1,11 @@
+.article-featured {
+    border-bottom: #707070 1px solid;
+    padding-bottom: 2em;
+    margin-bottom: 2em;
+    display: flex;
+    flex-direction: column;
+  }
+  .Main-img{
+    order: -2;
+  }
+ 
